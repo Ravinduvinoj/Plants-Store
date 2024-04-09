@@ -1,0 +1,13 @@
+https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js
+
+
+
+            <div class="row-2">
+                
+                  <div class="column">
+                    <img src="vegetables/brinjal.jpeg">
+                    <h2 class="rolex">BRINJAL NURSERY WITH POT</h2>
+                    <p>Rs:40.00</p>
+                  </div>
+
+            </div>
